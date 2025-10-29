@@ -1,0 +1,117 @@
+🧩 Stage 1: Project Overview
+Project Title:
+
+Vrinda Store Sales Performance Dashboard (2022)
+
+Objective:
+
+Analyze sales performance to identify key factors driving revenue, customer segments contributing most to profit, and opportunities to improve marketing and operations.
+
+Dataset Source:
+
+Vrinda Store Data Analysis.xlsx
+
+(This usually contains fields like order date, customer name, gender, state, product category, sales, quantity, profit, payment mode, etc.)
+
+📊 Stage 2: Tableau Dashboard Plan
+Dashboard 1: Sales Overview
+
+Purpose: Provide a high-level snapshot of business performance.
+
+KPIs:
+
+Total Sales
+
+Total Profit
+
+Number of Orders
+
+Average Order Value
+
+Visuals:
+
+Sales Trend (Monthly Line Chart)
+
+Sales by Category (Bar Chart)
+
+Profit by State (Map)
+
+Sales by Payment Mode (Donut Chart)
+
+Interactivity:
+
+Filters: Year, Month, Category, State
+
+Dynamic tooltips with order details
+
+Dashboard 2: Customer Insights
+
+Purpose: Understand who the best customers are and their buying patterns.
+
+Visuals:
+
+Sales by Gender (Pie or Bar)
+
+Age Group vs Total Sales (Stacked Bar)
+
+Top 10 Customers by Revenue (Horizontal Bar)
+
+State-wise Customer Distribution (Map)
+
+Interactivity:
+
+Click on gender to filter charts
+
+Hover to view top-performing states
+
+Find which products and categories drive most profit and which underperform.
+
+Visuals:
+
+Category vs Profit (Bar)
+
+Sub-Category vs Sales & Profit (Dual-axis Chart)
+
+Discount vs Profit Margin (Scatter Plot)
+
+Top 10 Products by Profit
+
+Interactivity:
+
+Use category dropdown to filter subcategories
+
+Dynamic highlight for profitable products
+
+💡 Stage 3: Business Questions to Answer
+
+Here are business questions your Tableau dashboards should help answer:
+
+Sales & Profit Trends
+
+Which months generated the highest and lowest revenue?
+
+Which payment method was most preferred by customers?
+
+Customer Insights
+
+Do male or female customers contribute more to sales?
+
+Which age group spends the most money?
+
+Which states have the most loyal or high-spending customers?
+
+Product Performance
+
+Which product category is most profitable?
+
+Which products need to be discontinued or discounted less?
+
+Is there a relationship between discount and profit margin?
+
+Business Decisions
+
+Based on data, which customer segment should be targeted more?
+
+Which products or regions should get higher marketing budgets?
+
+How can Vrinda Store increase profit without losing customers?

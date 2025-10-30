@@ -1,117 +1,95 @@
-🧩 Stage 1: Project Overview
-Project Title:
+# Vrinda Store Sales Performance Dashboard (2022) - Project Plan
 
-Vrinda Store Sales Performance Dashboard (2022)
+This document outlines the scope, structure, and objectives for the **Vrinda Store Sales Performance Dashboard (2022)** project, based on the provided data analysis plan.
 
-Objective:
+---
 
-Analyze sales performance to identify key factors driving revenue, customer segments contributing most to profit, and opportunities to improve marketing and operations.
+## 1. Project Overview
 
-Dataset Source:
+1. **Project Title:** Vrinda Store Sales Performance Dashboard (2022)
+2. **Objective:** Analyze sales performance to identify key factors driving revenue, customer segments contributing most to profit, and opportunities to improve marketing and operations.
+3. **Dataset Source:** Vrinda Store Data Analysis.xlsx
+   *(Expected fields: order date, customer name, gender, state, product category, sales, quantity, profit, payment mode, etc.)*
 
-Vrinda Store Data Analysis.xlsx
+---
 
-(This usually contains fields like order date, customer name, gender, state, product category, sales, quantity, profit, payment mode, etc.)
+## 2. Tableau Dashboard Plan
 
-📊 Stage 2: Tableau Dashboard Plan
-Dashboard 1: Sales Overview
+### 2.1 Dashboard 1: Sales Overview
 
-Purpose: Provide a high-level snapshot of business performance.
+1. **Purpose:** Provide a high-level snapshot of business performance.
+2. **Key Performance Indicators (KPIs):**
 
-KPIs:
+   1. Total Sales
+   2. Total Profit
+   3. Number of Orders
+   4. Average Order Value
+3. **Visuals:**
 
-Total Sales
+   1. Sales Trend (Monthly Line Chart)
+   2. Sales by Category (Bar Chart)
+   3. Profit by State (Map)
+   4. Sales by Payment Mode (Donut Chart)
+4. **Interactivity:**
 
-Total Profit
+   1. Filters: Year, Month, Category, State
+   2. Dynamic tooltips with order details
 
-Number of Orders
+---
 
-Average Order Value
+### 2.2 Dashboard 2: Customer Insights
 
-Visuals:
+1. **Purpose:** Understand who the best customers are and their buying patterns.
+2. **Visuals:**
 
-Sales Trend (Monthly Line Chart)
+   1. Sales by Gender (Pie or Bar Chart)
+   2. Age Group vs Total Sales (Stacked Bar Chart)
+   3. Top 10 Customers by Revenue (Horizontal Bar Chart)
+   4. State-wise Customer Distribution (Map)
+3. **Interactivity:**
 
-Sales by Category (Bar Chart)
+   1. Click on gender to filter all other charts.
+   2. Hover over the map to view top-performing states.
 
-Profit by State (Map)
+---
 
-Sales by Payment Mode (Donut Chart)
+### 2.3 Dashboard 3: Product Performance & Profitability
 
-Interactivity:
+1. **Purpose:** Identify products and categories driving the most profit and highlight underperformers.
+2. **Visuals:**
 
-Filters: Year, Month, Category, State
+   1. Category vs Profit (Bar Chart)
+   2. Sub-Category vs Sales & Profit (Dual-axis Chart)
+   3. Discount vs Profit Margin (Scatter Plot)
+   4. Top 10 Products by Profit (List/Table)
+3. **Interactivity:**
 
-Dynamic tooltips with order details
+   1. Category dropdown to filter subcategory visuals.
+   2. Dynamic highlight for profitable products.
 
-Dashboard 2: Customer Insights
+---
 
-Purpose: Understand who the best customers are and their buying patterns.
+## 3. Business Questions to Answer
 
-Visuals:
+### 3.1 Sales & Profit Trends
 
-Sales by Gender (Pie or Bar)
+1. Which months generated the highest and lowest revenue?
+2. Which payment method was most preferred by customers?
 
-Age Group vs Total Sales (Stacked Bar)
+### 3.2 Customer Insights
 
-Top 10 Customers by Revenue (Horizontal Bar)
+1. Do male or female customers contribute more to sales?
+2. Which age group spends the most money?
+3. Which states have the most loyal or high-spending customers?
 
-State-wise Customer Distribution (Map)
+### 3.3 Product Performance
 
-Interactivity:
+1. Which product category is most profitable?
+2. Which products need to be discontinued or discounted less?
+3. Is there a relationship between discount and profit margin?
 
-Click on gender to filter charts
+### 3.4 Business Decisions
 
-Hover to view top-performing states
-
-Find which products and categories drive most profit and which underperform.
-
-Visuals:
-
-Category vs Profit (Bar)
-
-Sub-Category vs Sales & Profit (Dual-axis Chart)
-
-Discount vs Profit Margin (Scatter Plot)
-
-Top 10 Products by Profit
-
-Interactivity:
-
-Use category dropdown to filter subcategories
-
-Dynamic highlight for profitable products
-
-💡 Stage 3: Business Questions to Answer
-
-Here are business questions your Tableau dashboards should help answer:
-
-Sales & Profit Trends
-
-Which months generated the highest and lowest revenue?
-
-Which payment method was most preferred by customers?
-
-Customer Insights
-
-Do male or female customers contribute more to sales?
-
-Which age group spends the most money?
-
-Which states have the most loyal or high-spending customers?
-
-Product Performance
-
-Which product category is most profitable?
-
-Which products need to be discontinued or discounted less?
-
-Is there a relationship between discount and profit margin?
-
-Business Decisions
-
-Based on data, which customer segment should be targeted more?
-
-Which products or regions should get higher marketing budgets?
-
-How can Vrinda Store increase profit without losing customers?
+1. Based on data, which customer segment should be targeted more?
+2. Which products or regions should get higher marketing budgets?
+3. How can Vrinda Store increase profit without losing customers?

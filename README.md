@@ -1,10 +1,10 @@
-# Vrinda Store Sales Performance Dashboard (2022) - Project Plan
+# Vrinda Store Sales Performance and Customer Dashboard (2022) - Project Plan
 
-This document outlines the revised scope, structure, and objectives for the Vrinda Store Sales Performance Dashboard (2022) project, focusing on core sales, customer insights, and strategic implementation.
+This document outlines the revised scope, structure, and objectives for the Vrinda Store Performance Dashboard (2022) project, focusing on core sales, customer insights, and strategic implementation.
 
 ## 1. Project Overview & Objectives
 
-**Project Title:** Vrinda Store Sales Performance Dashboard (2022)
+**Project Title:** Vrinda Store Sales Performance and Customer Dashboard (2022)
 
 **Objective:** To analyze 2022 sales data to identify key revenue drivers, major customer segments, and geographic opportunities, providing actionable strategies for sales growth in 2023.
 

@@ -73,23 +73,31 @@ This document outlines the scope, structure, and objectives for the **Vrinda Sto
 
 ### 3.1 Sales & Profit Trends
 
-1. Which months generated the highest and lowest revenue?
-2. Which payment method was most preferred by customers?
+1. Which months generated the highest and lowest revenue? 
+-- March has highest revenue and November has lowest revenue.
+2. Which payment channel was most preferred by customers?
+-- Amount Myntra and Flipkart are top 3 payment channel preferred by customers.
 
 ### 3.2 Customer Insights
 
 1. Do male or female customers contribute more to sales?
+-- Females contribute to more sales
 2. Which age group spends the most money?
+-- Working age group spends the most money in vrinda stores.
 3. Which states have the most loyal or high-spending customers?
-
+-- Maharashtra and Andhra Pradesh has the most loyal and high spending customers.
 ### 3.3 Product Performance
 
 1. Which product category is most profitable?
+-- Set, Kurta and Western Dresses are the product category which are most profitable.
 2. Which products need to be discontinued or discounted less?
+-- Ethnic Dresses, Blouses and Bottom are the product category which are least profitable as they have less so they should be discontinued or they should be discounted less as they have already less sales.
 3. Is there a relationship between discount and profit margin?
-
 ### 3.4 Business Decisions
 
-1. Based on data, which customer segment should be targeted more?
-2. Which products or regions should get higher marketing budgets?
-3. How can Vrinda Store increase profit without losing customers?
+1. Which products should get higher marketing budgets?
+-- Ethnic Dresses, Blouses and Bottom products have low sales so more marketing is required to improve sales of these products.
+2. How can Vrinda Store increase profit without losing customers?
+-- Vrinda store should increasing marketing efforts for ethnic dresses, blouses and botton 
+-- and provide discount on profitable products like set, kurta and western dress to drive more sales of these products.
+-- In the Poducherry and Telangana more stores should be set up or more marketing should be done in this areas.
